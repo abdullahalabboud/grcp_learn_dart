@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+this repository made for learning grpc from tutorial in youtube link.
+the link of youtube tutorial is  : https://www.youtube.com/watch?v=1rZcjmSxDXc&t=11sf 

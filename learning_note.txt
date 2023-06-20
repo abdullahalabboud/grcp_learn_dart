@@ -1,0 +1,17 @@
+youtube tutorial link : https://www.youtube.com/watch?v=1rZcjmSxDXc&t=11s
+
+install protocol buffer 
+install protobuf on global pub global in dart .
+
+
+start learning : 
+pub add : protobuf , grpc 
+
+
+create in project path "protos" folder to create proto messages files as a ".proto"
+
+not : proto to generate the important methods in dart language (or other in other languages) .
+
+generate proto command  : $ protoc --dart_out=grpc:lib/src/generated -Iporots protos/album.proto 
+
+
